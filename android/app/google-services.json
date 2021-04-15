@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105255867005",
+    "project_id": "podcast-b6947",
+    "storage_bucket": "podcast-b6947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105255867005:android:31430c689e3dee980fd714",
+        "android_client_info": {
+          "package_name": "com.example.podcasts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105255867005-utr45ljol1j931n4tcn3933h1a9hhlc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcasts",
+            "certificate_hash": "20452d661dd2c0f1db463efb45653a3080d89b36"
+          }
+        },
+        {
+          "client_id": "105255867005-a819cbb07efiknl33nom4n1dcbckkceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcJFwP6p6ylYScH65ih9kA99Jyrv1B5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105255867005-a819cbb07efiknl33nom4n1dcbckkceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
